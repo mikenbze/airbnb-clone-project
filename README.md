@@ -1,6 +1,4 @@
-# airbnb-clone-project
-
-## UI/UX Design Planning
+# UI/UX Design Planning
 ### Design Goals
 The primary objective of the UI/UX design is to create a seamless, intuitive, and aesthetically pleasing experience for users interacting with the property booking system. The design aims to:
 Enhance user engagement and satisfaction.
