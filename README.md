@@ -23,7 +23,7 @@ Smooth Checkout Flow: Minimal steps with real-time validation and feedback.
 ### Importance of User-Friendly Design in a Booking System
 A user-friendly design is critical in a booking system as it directly impacts conversion rates, customer satisfaction, and trust. Users should be able to complete bookings with minimal confusion and maximum confidence. An intuitive interface reduces errors, shortens decision-making time, and encourages repeat usage. In competitive markets, the quality of the user experience often determines whether a user completes a booking or abandons the process.
 
-## Project Roles and Responsibilities
+# Project Roles and Responsibilities
 This section outlines the key roles within the project team and their responsibilities to ensure effective collaboration and successful delivery.
 
 | **Role**                | **Key Responsibilities**                                                                                                                                      | **Contribution to Project Success**                                                                       |
