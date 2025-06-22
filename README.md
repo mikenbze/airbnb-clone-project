@@ -1,4 +1,4 @@
-# UI/UX Design Planning
+# 1. UI/UX Design Planning
 ### Design Goals
 The primary objective of the UI/UX design is to create a seamless, intuitive, and aesthetically pleasing experience for users interacting with the property booking system. The design aims to:
 Enhance user engagement and satisfaction.
@@ -23,6 +23,7 @@ Smooth Checkout Flow: Minimal steps with real-time validation and feedback.
 ### Importance of User-Friendly Design in a Booking System
 A user-friendly design is critical in a booking system as it directly impacts conversion rates, customer satisfaction, and trust. Users should be able to complete bookings with minimal confusion and maximum confidence. An intuitive interface reduces errors, shortens decision-making time, and encourages repeat usage. In competitive markets, the quality of the user experience often determines whether a user completes a booking or abandons the process.
 
+# 2. More UI/UX Design Planning
 ## Design Properties
 ### Color Styles
 Primary Red: #FF5A5F – used for primary actions (e.g., booking, highlights)
@@ -66,7 +67,7 @@ These properties serve as foundational tokens for building reusable components a
 ### 5. Accessibility & Quality
 Defined contrast, hierarchy, and sizes help ensure readability and compliance with accessibility standards
 
-# Project Roles and Responsibilities
+# 3. Project Roles and Responsibilities
 This section outlines the key roles within the project team and their responsibilities to ensure effective collaboration and successful delivery.
 
 | **Role**                | **Key Responsibilities**                                                                                                                                      | **Contribution to Project Success**                                                                       |
@@ -80,7 +81,7 @@ This section outlines the key roles within the project team and their responsibi
 | **Product Owner**       | - Define and prioritize product features.<br> - Gather feedback from stakeholders.<br> - Maintain and communicate the product vision.                         | Aligns the development team’s efforts with business goals and customer needs.                             |
 | **Scrum Master**        | - Facilitate Agile ceremonies (standups, retrospectives, etc.).<br> - Remove blockers for the team.<br> - Promote Agile best practices.                       | Maintains team focus, promotes continuous improvement, and ensures smooth Agile workflows.                |
 
-# UI Component Patterns
+# 4. UI Component Patterns
 This section outlines the planned UI components for the Airbnb Clone project. Each component is designed to be reusable, modular, and responsive, contributing to a consistent and user-friendly interface.
 
 | **Component**     | **Description**                                                                                                                                 |
