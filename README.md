@@ -36,3 +36,19 @@ This section outlines the key roles within the project team and their responsibi
 | **DevOps Engineers**    | - Manage CI/CD pipelines, deployment, and infrastructure.<br> - Monitor application uptime and scalability.<br> - Ensure system security and performance.     | Streamline deployment and operations, ensuring stability, availability, and rapid delivery of updates.    |
 | **Product Owner**       | - Define and prioritize product features.<br> - Gather feedback from stakeholders.<br> - Maintain and communicate the product vision.                         | Aligns the development team’s efforts with business goals and customer needs.                             |
 | **Scrum Master**        | - Facilitate Agile ceremonies (standups, retrospectives, etc.).<br> - Remove blockers for the team.<br> - Promote Agile best practices.                       | Maintains team focus, promotes continuous improvement, and ensures smooth Agile workflows.                |
+
+# UI Component Patterns
+This section outlines the planned UI components for the Airbnb Clone project. Each component is designed to be reusable, modular, and responsive, contributing to a consistent and user-friendly interface.
+
+| **Component**     | **Description**                                                                                                                                 |
+| ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Navbar**        | A fixed navigation bar that includes links to main pages (Home, Browse Listings, Sign In, etc.), logo, and optional search bar.                 |
+| **Property Card** | A reusable card component that displays property image, title, price, rating, and brief details. Used in the property listing grid or carousel. |
+| **Footer**        | A global footer with navigation links, legal information, contact details, and social media icons.                                              |
+
+### Component Design Goals
+Reusability: Components should be designed as building blocks for multiple views.
+Responsiveness: All components must adapt across mobile, tablet, and desktop screens.
+Accessibility: Follow best practices to ensure components are usable for all users, including keyboard navigation and screen readers.
+Consistency: Adhere to a shared design system (e.g., color palette, typography, spacing).
+More components (e.g., Modal, Button, Date Picker, Filter Sidebar) will be added as the UI is expanded during development.
