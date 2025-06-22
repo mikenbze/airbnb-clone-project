@@ -23,6 +23,49 @@ Smooth Checkout Flow: Minimal steps with real-time validation and feedback.
 ### Importance of User-Friendly Design in a Booking System
 A user-friendly design is critical in a booking system as it directly impacts conversion rates, customer satisfaction, and trust. Users should be able to complete bookings with minimal confusion and maximum confidence. An intuitive interface reduces errors, shortens decision-making time, and encourages repeat usage. In competitive markets, the quality of the user experience often determines whether a user completes a booking or abandons the process.
 
+## Design Properties
+### Color Styles
+Primary Red: #FF5A5F – used for primary actions (e.g., booking, highlights)
+Secondary Pink: #FFB400 – accents and icons
+Dark Charcoal: #484848 – main text
+Light Gray: #F7F7F7 – backgrounds and cards
+Gray: #767676 – secondary text/icons
+White: #FFFFFF – foundational backgrounds/text contrast
+Success Green: #008489 – confirmations/trust indicators
+Error Red: #D93900 – errors/alerts
+Shadow Black: rgba(0, 0, 0, 0.1) – shadows and overlays
+
+### Typography
+Font Family: Circular Std (with fallback Helvetica Neue, Arial, sans-serif)
+
+### Font Weights:
+Light — 300
+Regular — 400
+Medium — 500
+Bold — 700
+
+### Font Sizes:
+Display Large — 48px (hero titles, section headers)
+Heading 1 — 32px
+Heading 2 — 24px
+Body Large — 18px
+Body Regular — 16px
+Caption/Label — 14px
+Micro — 12px
+
+## Why Defining These Matters
+Identifying these design properties is essential because of:
+### 1. Consistency
+These styles create a cohesive visual language across all UI components and pages
+### 2. Efficiency for Devs
+Developers know exact values for colors, fonts, and sizes—eliminating guesswork during implementation
+### 3. Team Alignment
+Designers and engineers speak the same language when referencing token names and styles
+### 4. Design System Readiness
+These properties serve as foundational tokens for building reusable components and scalable design systems
+### 5. Accessibility & Quality
+Defined contrast, hierarchy, and sizes help ensure readability and compliance with accessibility standards
+
 # Project Roles and Responsibilities
 This section outlines the key roles within the project team and their responsibilities to ensure effective collaboration and successful delivery.
 
