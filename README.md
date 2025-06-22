@@ -46,9 +46,13 @@ This section outlines the planned UI components for the Airbnb Clone project. Ea
 | **Property Card** | A reusable card component that displays property image, title, price, rating, and brief details. Used in the property listing grid or carousel. |
 | **Footer**        | A global footer with navigation links, legal information, contact details, and social media icons.                                              |
 
-### Component Design Goals
-Reusability: Components should be designed as building blocks for multiple views.
-Responsiveness: All components must adapt across mobile, tablet, and desktop screens.
-Accessibility: Follow best practices to ensure components are usable for all users, including keyboard navigation and screen readers.
-Consistency: Adhere to a shared design system (e.g., color palette, typography, spacing).
+## Component Design Goals
+### Reusability: 
+Components should be designed as building blocks for multiple views.
+### Responsiveness: 
+All components must adapt across mobile, tablet, and desktop screens.
+### Accessibility: 
+Follow best practices to ensure components are usable for all users, including keyboard navigation and screen readers.
+### Consistency: 
+Adhere to a shared design system (e.g., color palette, typography, spacing).
 More components (e.g., Modal, Button, Date Picker, Filter Sidebar) will be added as the UI is expanded during development.
